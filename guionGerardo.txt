@@ -1,0 +1,25 @@
+Patron de diseno es una tecnica para lograr algo
+
+DAO para acceder a los datos de la base de datos
+
+Singleton es para crear una clase que no se pueda instanciar mas de una vez, 
+que solo tenga una instancia
+
+Diagramos de Ishikawa
+
+Comienzo:
+Despues de haberse explicado las generalidades de la empresa hableremos de los problemas que la
+empresa presenta, presentaremos cada uno con un diagrama de Ishikawa
+Presentar Diagramas.
+
+Fin diagramas ishikawa. comienzo diagramas casos de uso.
+Despues de mostrar la problematica a traves de los diagramas de Ishikawa:
+Planteamos resolver dichas problematicas a traves de un sistema que va a solventar los 
+siguientes casos de uso, por que?: porque un caso de uso es algo que todavia no esta hecho pero que
+se planea a futuro, cuando se habla de este nivel se toma en cuenta que son las funcionabilidades
+del sistema que va a solventar este problema y para solventar dichos problemas vamos a crear un sistema
+que plantea darle funcion a los siguientes casos de uso.
+En resumen un caso de uso es funcionabilidad que se va a programar. A continuacion presentare los casos de uso
+
+
+
